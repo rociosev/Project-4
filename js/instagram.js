@@ -10,7 +10,11 @@
 						
 $(function() {
 	
+<<<<<<< HEAD
 	var apiurl = "https://api.instagram.com/v1/tags/expo2015/media/recent?access_token=1090672598.1677ed0.112295d3b74048e6980e7a23f2f21dcb&callback=?"
+=======
+	var apiurl = "https://api.instagram.com/v1/tags/expo2015/recent?access_token=1090672598.1677ed0.112295d3b74048e6980e7a23f2f21dcb&callback=?"
+>>>>>>> FETCH_HEAD
 	var access_token = location.hash.split('=')[1];
 	var html = ""
 	
