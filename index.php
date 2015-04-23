@@ -131,12 +131,15 @@ google.maps.event.addDomListener(window, 'load', initialize);
         </div> 
 </nav>
                  <!------------------------------------ACTUAL BODY STARTS------------------->
+    <br>
     <p>Welcome to <a class="expo-link" href="#">Expo2015</a>'s social media outlets and navigation!</p>
     Be sure to stay up to date with everything going on by following our social media with the #Expo2015.
 
     <br>
         Check out our live Instagram and Twitter feed to know about everything going on in the different pavillions! 
          <br>
+            <br>
+            <img src="images/line.png" alt="line" style= width:70%; height=2%>
             <br>
            <div class="row">
   <div class="instagram-iframe col-lg-6 col-md-6 col-sm-12"> <!-- instagram-->
@@ -158,9 +161,10 @@ google.maps.event.addDomListener(window, 'load', initialize);
 </iframe><!-- closses Twitter iframe-->
             </div> <!-- closses twitter div-->
             </div> <!-- closses row of Instagram and twitter-->
-           
+            
             <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-12"> <!-- instagram-->
+                <div class="col-lg-12 col-md-12 col-sm-12"> <!-- instagram-->
+                <br>
                  <input id="pac-input" class="controls" type="text" placeholder="Search Box">
 <div id="map-canvas"></div>
 </div>

@@ -4,7 +4,6 @@
     padding: 20px;
 }
 
-
 /*actual feed*/
     .tweet-box {
         border-bottom: dotted 1px black;
@@ -30,7 +29,7 @@
         display: block;
       }
       .twitter-div {
-        width: 305px;
+       /* width: 305px;*/
         overflow-x: hidden;
       }
       .tweet-reply,.tweet-retweet, .tweet-fav {
