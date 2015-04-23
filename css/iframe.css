@@ -1,5 +1,5 @@
 /*TWITTER IFRAME-->    */
-/*box*/
+/*box from SAD FACE*/
 .twitter-iframe-box{
     padding: 20px;
 }
@@ -59,4 +59,11 @@ p{
     overflow:hidden;
    /* width:100%;
     height: auto;*/
+}
+h2{
+    font-size: 12px;
+    font-weight:100;
+}
+h1{
+    font-size: 30px;
 }
