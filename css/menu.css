@@ -1,0 +1,44 @@
+.nav{
+    /*background: #228765;*/
+    width:100%;
+    text-align: right;
+   /* color: #D6FFBE;*/
+   /* color: #ffffff;*/
+}
+
+/*bootstrap modifications */
+.navbar-inverse .navbar-nav>li>a{
+    color: #D6FFBE;
+    text-align: right;
+}
+.container>.navbar-header{
+    background: #ffffff;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+    background: #ffffff;
+}
+
+.btn-toolbar:before,  .clearfix:before, .container-fluid:before,.container:before,  .modal-footer:before, .nav:before, .navbar-collapse:before, .navbar-header:before, .navbar:before, .pager:before,  .panel-body:before, .row:before{
+    display: none;
+    
+}
+
+.navbar-inverse .navbar-toggle{ /*button border*/
+border-color: #ffffff;
+background-color: red;
+}
+ 
+.navbar-inverse .navbar-toggle, .navbar-inverse .navbar-toggle:active, .navbar-inverse .navbar-toggle:hover{
+border-color: #ffffff;
+background-color: red;
+ }   
+
+.navbar-inverse{
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+
+a:hover{
+    color: #2D5918;
+    background: #ffffff;
+}

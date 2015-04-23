@@ -1,0 +1,63 @@
+/*TWITTER IFRAME-->    */
+/*box*/
+.twitter-iframe-box{
+    padding: 20px;
+}
+
+
+/*actual feed*/
+    .tweet-box {
+        border-bottom: dotted 1px black;
+        padding-bottom: 10px;
+        clear: both;
+      }
+      .tweet{
+        padding-bottom: 5px;
+      }
+      .twitter-pic {
+        padding-right: 5px;
+      }
+      .user-pic{
+        
+        border-top: dashed 1px black;
+        text-align: center;
+        padding-top: 5px;
+      }
+      .twitter-media {
+        max-width: 285px;
+        max-height: 285px;
+        margin: 0 auto;
+        display: block;
+      }
+      .twitter-div {
+        width: 305px;
+        overflow-x: hidden;
+      }
+      .tweet-reply,.tweet-retweet, .tweet-fav {
+        display: inline-block;
+      }
+      a:hover{
+        color: green;
+        text-decoration: none;
+        font-weight: 800;
+      }
+      a{
+        color: green;
+      }
+/*Body styling*/      
+.expo-link:hover{
+ text-decoration: none;   
+}
+p{
+    font-weight: 800;
+    font-size: larger;
+}
+
+.instagram-iframe{
+    margin-top:20px;
+    padding: 20px;
+    border: solid 1px black;
+    overflow:hidden;
+   /* width:100%;
+    height: auto;*/
+}

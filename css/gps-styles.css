@@ -1,0 +1,14 @@
+.text{
+    margin: 50px;
+    
+}
+h1{
+   color: #36CC7C;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  font-size: 50px;
+  text-align: center;
+  line-height: 20px;
+  padding-top: 10px;
+  margin-bottom: 20px;
+}
